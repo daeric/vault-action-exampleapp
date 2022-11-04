@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "M2R0QP2L92",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/g8ufq9VOHgnBJjVznbRIJjsXnZj7sOacMsggNM0UeYJrDWeL5u",
+  "gitHubUrl": "https://github.com/daeric/vault-action-exampleapp",
+  "workFolder": "_work"
+}
